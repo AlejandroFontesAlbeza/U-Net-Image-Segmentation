@@ -2,6 +2,11 @@
 
 ![OS](https://img.shields.io/badge/-Linux-grey?logo=linux) ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch) ![License](https://img.shields.io/badge/License-MIT-green) ![Python](https://img.shields.io/badge/python-3.12%2B-blue)
 
+<p align = "center">
+    <img src = "resources/CarvanaImage.png" alt = "MNIST dataset image" width = "500"/>
+</p>
+
+
 ---
 
 End-to-end **image segmentation** project using a **U-Net architecture** implemented from scratch in **PyTorch**, trained on the **Carvana Image Masking Challenge** dataset (Kaggle).
