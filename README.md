@@ -49,7 +49,7 @@ Implementation can be found in: `uNetUtils.py`
 
 ## Repo Structure
 
-```bash
+```
 .
 ├── inference.py
 ├── trainuNet.py
@@ -59,6 +59,8 @@ Implementation can be found in: `uNetUtils.py`
 │   └── inference_result.png
 ├── .gitignore
 └── README.md
+
+```
 
 ---
 
